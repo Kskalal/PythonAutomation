@@ -1,2 +1,2 @@
 # PythonAutomation
-ETL python automation repository for ETL automation
+ETL python automation repository for ETL automation.
