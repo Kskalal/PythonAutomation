@@ -18,7 +18,7 @@ def tgt_target_set_up():
     df_tgt=pd.read_csv("D:/ETL/Target.csv",sep=',')
     print("target file reading before code execution ")
     yield df_tgt
-    print("Target file reading execution completed")
+    print("Target file reading execution completed successfully")
 
 @pytest.fixture()
 def oracle_conn_set_up():
